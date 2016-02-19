@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chokri Ben Jemaa , FOSS enthausiast, launches Site"
+title: "Chokri Ben Jemaa , FOSS enthusiast, launches Site"
 date: 2015-11-07
 ---
 
